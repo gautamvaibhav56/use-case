@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>61dea6b4-8e61-485c-bee2-9c3ba1dc5167</groupId>
+  <artifactId>errorresponsestrait</artifactId>
+  <version>1.0.0</version>
+  <name>errorresponsestrait</name>
+  <properties>
+    <classifier>raml-fragment</classifier>
+    <main>errorresponsestrait.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <projectId>e07f96c1-5884-45d9-ad73-39661a1cd06f</projectId>
+    <branchId>master</branchId>
+    <commitId>b66690c4906c0c996362bf6ef9930d6913caa75b</commitId>
+    <keywords/>
+    <type>raml-fragment</type>
+    <mainFile>errorresponsestrait.raml</mainFile>
+  </properties>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>61dea6b4-8e61-485c-bee2-9c3ba1dc5167</groupId>
+  <artifactId>walmartresources</artifactId>
+  <version>1.0.0</version>
+  <name>walmartresources</name>
+  <properties>
+    <classifier>raml-fragment</classifier>
+    <main>walmartresources.raml</main>
+    <status>published</status>
+    <originalFormatVersion>1.0</originalFormatVersion>
+    <projectId>07edc560-ad85-475e-9b35-b5e0d7f17dca</projectId>
+    <branchId>master</branchId>
+    <commitId>61968f0c3c4abb57444630b380af7b1f6bf4c082</commitId>
+    <keywords/>
+    <type>raml-fragment</type>
+    <mainFile>walmartresources.raml</mainFile>
+  </properties>
+  <dependencies>
+    <dependency>
+      <groupId>61dea6b4-8e61-485c-bee2-9c3ba1dc5167</groupId>
+      <version>1.0.0</version>
+      <type>zip</type>
+      <classifier>raml-fragment</classifier>
+      <artifactId>errorresponsestrait</artifactId>
+    </dependency>
+  </dependencies>
+  <repositories>
+    <repository>
+      <id>anypoint-exchange</id>
+      <url>https://maven.anypoint.mulesoft.com/api/v3/maven</url>
+    </repository>
+  </repositories>
+</project>
